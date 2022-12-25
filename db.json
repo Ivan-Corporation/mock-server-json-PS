@@ -1,16 +1,52 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"games": [
+		{
+			"id": 1,
+			"gameId": "cs_go",
+			"gamename": "CS GO",
+			"game_banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/3b25b717-2a2b-4326-b0b0-ba82fc568120-profile_banner-480.png",
+			"gamepreview": "https://games.mail.ru/hotbox/content_files/game/2021/03/31/d1177fc80e0d4a618e5ad6c3ab4a619a.jpg",
+			"isLike": false
+		},
+		{
+			"id": 2,
+			"gameId": "dota2",
+			"gamename": "Dota2",
+			"game_banner": "https://interfaceingame.com/wp-content/uploads/dota-2/dota-2-banner.jpg",
+			"gamepreview": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg",
+			"isLike": true
+		},
+		{
+			"id": 3,
+			"gameId": "apex_legends",
+			"gamename": "Apex Legends",
+			"game_banner": "https://pbs.twimg.com/media/FfgKMWYXwAUPdQF?format=jpg&name=4096x4096",
+			"gamepreview": "https://ixbt.online/live/topics/preview/00/02/88/18/f6417cf5f3.jpg",
+			"isLike": false
+		},
+		{
+			"id": 4,
+			"gameId": "pubg",
+			"gamename": "PUBG",
+			"game_banner": "https://gametame.com/img/pubg-uc-banner.png",
+			"gamepreview": "https://ixbt.online/live/topics/preview/00/02/68/77/de6e024857.jpg",
+			"isLike": false
+		},
+		{
+			"id": 5,
+			"gameId": "world_of_tanks",
+			"gamename": "World Of Tanks",
+			"game_banner": "https://nbi19.com/wp-content/uploads/2019/05/youtube.jpg",
+			"gamepreview": "https://cdnstatic.rg.ru/uploads/images/189/46/92/tanki1000.jpg",
+			"isLike": false
+		},
+		{
+			"id": 6,
+			"gameId": "league_of_legends",
+			"gamename": "League of Legends",
+			"game_banner": "https://www.thesportsgeek.com/app/uploads/2020/05/league-of-legends-logo-background.jpg",
+			"gamepreview": "https://gamemag.ru/images/cache/News/News145929/9205e9b6b7-2_1390x600.jpg",
+			"isLike": false
+		}
+	]
 }
